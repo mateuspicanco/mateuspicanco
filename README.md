@@ -1,4 +1,4 @@
-# Hello, I'm Mateus and welcome to my github profile
+# Welcome to the jungle
 
 I am a Data Scientist from Manaus currently living in São Paulo, Brazil. I graduated from Brown University in Electrical Engineering (Multimedia Signal Processing) in 2018, and since then have been developing my skills in the field of data science and machine learning and working on projects in the field at big Brazilian companies, such as *Itaú Unibanco* and *Telefonica (Vivo)* and currently in *BTG Pactual*, Latin America's largest Investment Bank.
 
