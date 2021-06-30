@@ -6,14 +6,17 @@
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/omateuspicanco)
 
-I graduated from Brown University in Electrical Engineering (Multimedia Signal Processing) in 2018, and since then have been developing my skills in the field of data science and machine learning and working on projects in the field at big Brazilian companies, such as *Itaú Unibanco* and *Telefonica (Vivo)* and currently in *BTG Pactual*, Latin America's largest Investment Bank.
+- :school: Bachelor of Science in Electrical Engineering from **Brown University** 
+- :bank: Working as a Data Scientist at [BTG Pactual](https://www.linkedin.com/company/btgpactual/mycompany/)
+- :rocket: Recenttly I have been studying more about Bayesian Inference
+- :computer: Working on projects related to Geospatial and Socioeconomic data in the Real State industry
 
-I am very passionate about **Data Products** and leveraging Machine Learning and predictive technologies to improve people's daily experiences. A frustrated musician, I am particularly fond of applications of Artificial Intelligence to the context of Natural Language Processing and Audio, and making useful products out of these fields. 
+**Fun fact**: I play 14 different musical instruments and have an [album on spotify](https://open.spotify.com/artist/7kilyBrsKL8lSoW5tU9s5Y).
 
-Below are some of the my work principles I like to emphasize (which you might see here and there in my code and in the things I write):
+My work principles are: 
 
-1. Being clever is awesome, but being intelligible and accessible is even better;
-2. Code is written by and made for humans. Context and history matters;
-3. No technology project is done in a vacuum and all should strive to be human-centric;
+> Being clever is awesome, but being intelligible and accessible is even better;
+> Code is written by and made for humans. Context and history matters;
+> No technology project is done in a vacuum and all should strive to be human-centric;
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mateuspicanco)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mateuspicanco&show_icons=true&theme=dracula)
