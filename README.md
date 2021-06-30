@@ -1,4 +1,4 @@
-# Hi folks, I'm Mateus, a Data Scientist from Brazil.
+# Hi folks, I'm Mateus, a frustrated musician that happens to be a Data Scientist
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mateuspicanco/)
 
@@ -13,10 +13,12 @@
 
 **Fun fact**: I play 14 different musical instruments and have an [album on spotify](https://open.spotify.com/artist/7kilyBrsKL8lSoW5tU9s5Y).
 
-My work principles are: 
+My work principless are: 
 
 > Being clever is awesome, but being intelligible and accessible is even better;
+
 > Code is written by and made for humans. Context and history matters;
+
 > No technology project is done in a vacuum and all should strive to be human-centric;
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mateuspicanco&show_icons=true&theme=dracula)
