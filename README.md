@@ -19,10 +19,10 @@ So, if you got here, here are some facts about me:
 
 ## Some principles behind my work
 
-> **Being clever is awesome, but making everyone in the room understand what is being said is much better.**;
+> **Being clever is awesome, but making everyone in the room understand what is being said is much better.**
 
-> **Code is written by and made for humans. Context and history matters are very important.**;
+> **Code is written by and made for humans. Context and history matters.**
 
-> **Technology does not mean anything without users. People always come first.**;
+> **Technology does not mean anything without its users. People always come first.**
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mateuspicanco&show_icons=true&theme=dracula)
