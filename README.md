@@ -10,7 +10,7 @@ Hi folks! Welcome to my Github profile. Here you will find the source code and d
 
 So, if you got here, here are some facts about me:
 
-- :school: I have a Bachelor of Science in Electrical Engineering from **Brown University** 
+- :school: I have a Bachelor of Science in Electrical Engineering from [Brown University](https://www.brown.edu/);
 - :bank: I am currently a Data Scientist at [BTG Pactual](https://www.linkedin.com/company/btgpactual/mycompany/), working with CRM;
 - :rocket: Recently I have been studying more about Bayesian Inference;
 - :computer: I am working on projects related to Geospatial and Socioeconomic data in the Real State industry;
