@@ -6,7 +6,7 @@
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/omateuspicanco)
 
-[https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white](https://www.kaggle.com/mateuspicanco)
+[<img src = "https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/mateuspicanco)
 
 Hi folks! Welcome to my Github profile. Here you will find the source code and documentation for my projects. If you are interested in talking more about them, feel free to hit me up on LinkedIn! (you can find it at the badge up there :point_up:).
 
