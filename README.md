@@ -6,6 +6,8 @@
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/omateuspicanco)
 
+[https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white](https://www.kaggle.com/mateuspicanco)
+
 Hi folks! Welcome to my Github profile. Here you will find the source code and documentation for my projects. If you are interested in talking more about them, feel free to hit me up on LinkedIn! (you can find it at the badge up there :point_up:).
 
 So, if you got here, here are some facts about me:
@@ -21,7 +23,7 @@ So, if you got here, here are some facts about me:
 
 > **Being clever is awesome, but making everyone in the room understand what is being said is much better.**
 
-> **Code is written by and made for humans. Context and history matters.**
+> **Code is written by and made for humans. Context and history matter.**
 
 > **Technology does not mean anything without its users. People always come first.**
 
