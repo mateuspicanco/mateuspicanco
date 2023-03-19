@@ -1,6 +1,5 @@
 # Mateus Picanço
 
-[en-US]
 Hi everyone, here is Mateus, welcome to my Github Profile!
 
 I'm an experienced Data Scientist who loves to share knowledge and the things I've been curious about. Sometimes I write on my [Medium blog](https://mateuspicanco.medium.com/) and on my portuguese-only blog [Papo de Dados](https://papodedados.com/). 
