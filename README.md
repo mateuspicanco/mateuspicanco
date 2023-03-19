@@ -9,10 +9,10 @@ A few interesting things about me:
 - :computer: I am a Data Scientist at @microsoft, working on Microsoft Stream, the company's Enterprise video platform;
 - :rocket: Recently I have been studying more about the applications of Unsupervised Learning to Causal Inference and Experimentation
 
-## Here are my work principles are:
+## Let me tell you about some of my work principles:
 
-> **Being clever is being able to make everyone in a room understand you**
-> 
-> **People first, technology second. Never the opposite**
+> Being **clever** is being able to make **everyone** in a room can **understand you**. Let's just say I'm not a fan of one-liners.
+
+> **People** first, **technology second**, **never** the opposite. 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mateuspicanco&show_icons=true&theme=dracula)
