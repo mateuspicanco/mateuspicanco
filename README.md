@@ -6,7 +6,7 @@ I'm an experienced Data Scientist who loves to share knowledge and the things I'
 
 A few interesting things about me:
 - :school: I have a Bachelor of Science in Electrical Engineering from [Brown University](https://www.brown.edu/), and I studied a lot about Digital Signal Processing in college;
-- :computer: I am currently a Data Scientist at @microsoft, working on Content Platforms and Audio/Video User behavior;
+- :computer: I am a Data Scientist at @microsoft, working on Microsoft Stream, the company's Enterprise video platform;
 - :rocket: Recently I have been studying more about the applications of Unsupervised Learning to Causal Inference and Experimentation
 
 ## Here are my work principles are:
