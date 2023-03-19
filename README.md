@@ -12,6 +12,7 @@ A few interesting things about me:
 ## Here are my work principles are:
 
 > **Being clever is being able to make everyone in a room understand you**
+> 
 > **People first, technology second. Never the opposite**
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mateuspicanco&show_icons=true&theme=dracula)
