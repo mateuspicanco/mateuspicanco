@@ -11,8 +11,8 @@ A few interesting things about me:
 
 ## Let me tell you about some of my work principles:
 
-> Being **clever** is being able to make **everyone** in a room can **understand you**. Let's just say I'm not a fan of one-liners.
+> Being **clever** is being able to make **everyone** in a room can **understand you**. 
 
-> **People** first, **technology second**, **never** the opposite. 
+> **People** first, **technology second**, **never** the other way around. 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mateuspicanco&show_icons=true&theme=dracula)
