@@ -13,4 +13,4 @@ A few interesting things about me:
 
 > **People** first, **technology second**, **never** the other way around. 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mateuspicanco&show_icons=true&theme=dracula)
+[//]: [Github Stats](https://github-readme-stats.vercel.app/api?username=mateuspicanco&show_icons=true&theme=dracula)
