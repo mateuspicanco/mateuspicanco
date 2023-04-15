@@ -5,7 +5,8 @@ I'm an experienced Data Scientist who loves to share knowledge and the things I'
 A few interesting things about me:
 - :school: I have a Bachelor of Science in Electrical Engineering from [Brown University](https://www.brown.edu/), and I studied a lot about Digital Signal Processing in college;
 - :computer: I am a Data Scientist at @microsoft, working on Microsoft Stream, the M365's Enterprise and Education video platform;
-- :rocket: I am focusing on Causal Inference and Unsupervised Learning;
+- :rocket: My research focus is the applications of Unsupervised Learning in Causal Inference;
+- :crab: In 2023 I'm trying to learn Rust!
 
 ## Let me tell you about some of my work principles:
 
