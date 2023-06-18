@@ -10,7 +10,7 @@ A few interesting things about me:
 
 ## Let me tell you about some of my work principles:
 
-> Being **clever** is being able to make **everyone** in a room can **understand you**. 
+> Being **clever** is being able to make **everyone** in a room **understand you**. 
 
 > **People** first, **technology second**, **never** the other way around. 
 
